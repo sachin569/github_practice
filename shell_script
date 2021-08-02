@@ -26,7 +26,7 @@ echo "$a / $b = $((a/b))"
 FILE=/etc/resolv.conf
 if [ -f "FILE" ] ;then
     echo "$FILE exists."
-else 
+else
     echo "FILE does not exists.
 fi
 
