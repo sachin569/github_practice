@@ -1,0 +1,4 @@
+a=input('enter the numer")
+b=input('enter the number")
+c=a+b
+print(f"the addition of number is{c}") 
